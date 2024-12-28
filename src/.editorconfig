@@ -218,3 +218,6 @@ dotnet_diagnostic.CA1307.severity = none
 
 # CA1051: Do not declare visible instance fields
 dotnet_diagnostic.CA1051.severity = none
+
+[*.{cs,vb}]
+dotnet_diagnostic.IDE0046.severity = none
